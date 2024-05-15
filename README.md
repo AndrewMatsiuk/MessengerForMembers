@@ -18,10 +18,23 @@ You will also see any lint errors in the console.
 
 <div style="position: relative; display: inline-block;">
 <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
+    Sign in page
   </div>
-  <img src="./photoReadme/singIn.png" alt="singIn" width="600"/>
-  <img src="./photoReadme/singUp.png" alt="singUn" width="600"/>
+  <img src="./photoReadme/signIn.png" alt="signIn" width="600"/>
+  <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
+    Sign up page
+  </div>
+  <img src="./photoReadme/signUp.png" alt="signUn" width="600"/>
+  <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
+    One time password (OTP) page
+  </div>
   <img src="./photoReadme/otp.png" alt="otp" width="600"/>
+   <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
+    Account member page
+  </div>
   <img src="./photoReadme/info.png" alt="info" width="600"/>
+  <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
+    Chat page
+  </div>
   <img src="./photoReadme/chat.png" alt="chat" width="600"/>
 </div>
