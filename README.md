@@ -30,7 +30,7 @@ You will also see any lint errors in the console.
   </div>
   <img src="./photoReadme/otp.png" alt="otp" width="600"/>
    <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
-    Account member page
+    Account info page
   </div>
   <img src="./photoReadme/info.png" alt="info" width="600"/>
   <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
