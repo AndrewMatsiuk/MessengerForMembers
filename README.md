@@ -19,6 +19,9 @@ You will also see any lint errors in the console.
 <div style="position: relative; display: inline-block;">
 <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
   </div>
-  <img src="./photoReadme/singIn.png" alt="singIn" width="300"/>
-  <img src="./photoReadme/singUn.png" alt="singUn" width="300"/>
+  <img src="./photoReadme/singIn.png" alt="singIn" width="400"/>
+  <img src="./photoReadme/singUp.png" alt="singUn" width="400"/>
+  <img src="./photoReadme/otp.png" alt="otp" width="400"/>
+  <img src="./photoReadme/info.png" alt="info" width="400"/>
+  <img src="./photoReadme/chat.png" alt="chat" width="400"/>
 </div>
